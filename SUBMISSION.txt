@@ -1,0 +1,30 @@
+INTERNNOVA HOMEPAGE REDESIGN — SUBMISSION
+
+1. Live Website Link
+   Publish the included project with GitHub Pages.
+   Expected format:
+   https://YOUR-GITHUB-USERNAME.github.io/internnova-homepage-redesign/
+
+2. GitHub Repository Link
+   Expected format:
+   https://github.com/YOUR-GITHUB-USERNAME/internnova-homepage-redesign
+
+3. Screenshots
+   See the screenshots/ folder for desktop, tablet and mobile design captures.
+
+Project files:
+- index.html
+- styles.css
+- script.js
+- README.md
+- screenshots/
+
+Publishing:
+1. Create a public GitHub repository named internnova-homepage-redesign.
+2. Upload index.html, styles.css, script.js and README.md.
+3. Open Settings > Pages.
+4. Select Deploy from branch > main > /root and save.
+5. Copy the generated GitHub Pages URL into the internship portal.
+
+Design note:
+This is an original redesign based on InternNova's public website content and brand cues. It is not a direct copy of the existing UI.
